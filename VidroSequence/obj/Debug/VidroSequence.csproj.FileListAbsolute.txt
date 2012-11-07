@@ -1,0 +1,18 @@
+C:\Users\Udongein\AppData\Local\Temporary Projects\VidroSequence\bin\Debug\VidroSequence.exe
+C:\Users\Udongein\AppData\Local\Temporary Projects\VidroSequence\bin\Debug\VidroSequence.pdb
+C:\Users\Udongein\AppData\Local\Temporary Projects\VidroSequence\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Udongein\AppData\Local\Temporary Projects\VidroSequence\obj\Debug\VidroSequence.Form1.resources
+C:\Users\Udongein\AppData\Local\Temporary Projects\VidroSequence\obj\Debug\VidroSequence.Properties.Resources.resources
+C:\Users\Udongein\AppData\Local\Temporary Projects\VidroSequence\obj\Debug\VidroSequence.csproj.GenerateResource.Cache
+C:\Users\Udongein\AppData\Local\Temporary Projects\VidroSequence\obj\Debug\VidroSequence.exe
+C:\Users\Udongein\AppData\Local\Temporary Projects\VidroSequence\obj\Debug\VidroSequence.pdb
+C:\Users\Udongein\AppData\Local\Temporary Projects\VidroSequence\bin\Debug\VidroSequence.exe.config
+C:\Users\Udongein\Documents\Visual Studio Codename Orcas\Projects\VidroSequence\VidroSequence\bin\Debug\VidroSequence.exe.config
+C:\Users\Udongein\Documents\Visual Studio Codename Orcas\Projects\VidroSequence\VidroSequence\obj\Debug\VidroSequence.exe
+C:\Users\Udongein\Documents\Visual Studio Codename Orcas\Projects\VidroSequence\VidroSequence\obj\Debug\VidroSequence.pdb
+C:\Users\Udongein\Documents\Visual Studio Codename Orcas\Projects\VidroSequence\VidroSequence\bin\Debug\VidroSequence.exe
+C:\Users\Udongein\Documents\Visual Studio Codename Orcas\Projects\VidroSequence\VidroSequence\bin\Debug\VidroSequence.pdb
+C:\Users\Udongein\Documents\Visual Studio Codename Orcas\Projects\VidroSequence\VidroSequence\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Udongein\Documents\Visual Studio Codename Orcas\Projects\VidroSequence\VidroSequence\obj\Debug\VidroSequence.Form1.resources
+C:\Users\Udongein\Documents\Visual Studio Codename Orcas\Projects\VidroSequence\VidroSequence\obj\Debug\VidroSequence.Properties.Resources.resources
+C:\Users\Udongein\Documents\Visual Studio Codename Orcas\Projects\VidroSequence\VidroSequence\obj\Debug\VidroSequence.csproj.GenerateResource.Cache

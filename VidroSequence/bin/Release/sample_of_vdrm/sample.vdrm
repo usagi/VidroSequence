@@ -1,0 +1,38 @@
+vidro
+
+# VidroSequence .vdrm format sample
+#
+# 連番の範囲		(begin)		(end)
+#@VDRM_RANGE		000			024
+#
+# オブジェクト		(prefix)	(suffix)
+#@VDRM_OBJECTS_BEGIN
+#	OBJ00	model\Sample_A_		.mqo
+#	OBJ03	model\Sample_A_		.mqo
+#	HOGE7	model\Sample_A_		.mqo
+#@VDRM_OBJECTS_END
+#
+
+New Space
+
+	New Volume
+		SkyLight	1.0 1.0 1.0
+
+		new ParallelLight
+			Emission	1.0 1.0 1.0
+			Direction	1.0 -1.0 1.0
+
+		New Eye
+			Position	100.0 100.0 1200.0
+			Focus	0.0 0.0 0.0
+
+	New Object
+		File	"<OBJ00>"
+
+	New Object
+		File	"<OBJ03>"
+		Position -200.0 0.0 0.0
+
+	New Object
+		File	"<HOGE7>"
+		Position 200.0 0.0 0.0

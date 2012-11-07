@@ -1,0 +1,27 @@
+C:\Users\Udongein\AppData\Local\Temporary Projects\VidroSequence\bin\Release\VidroSequence.exe
+C:\Users\Udongein\AppData\Local\Temporary Projects\VidroSequence\bin\Release\VidroSequence.pdb
+C:\Users\Udongein\AppData\Local\Temporary Projects\VidroSequence\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Udongein\AppData\Local\Temporary Projects\VidroSequence\obj\Release\VidroSequence.Form1.resources
+C:\Users\Udongein\AppData\Local\Temporary Projects\VidroSequence\obj\Release\VidroSequence.Properties.Resources.resources
+C:\Users\Udongein\AppData\Local\Temporary Projects\VidroSequence\obj\Release\VidroSequence.csproj.GenerateResource.Cache
+C:\Users\Udongein\AppData\Local\Temporary Projects\VidroSequence\obj\Release\VidroSequence.exe
+C:\Users\Udongein\AppData\Local\Temporary Projects\VidroSequence\obj\Release\VidroSequence.pdb
+C:\Users\Udongein\AppData\Local\Temporary Projects\VidroSequence\bin\Release\VidroSequence.exe.config
+C:\Users\Udongein\Documents\Visual Studio Codename Orcas\Projects\VidroSequence\VidroSequence\bin\Release\VidroSequence.exe.config
+C:\Users\Udongein\Documents\Visual Studio Codename Orcas\Projects\VidroSequence\VidroSequence\bin\Release\VidroSequence.exe
+C:\Users\Udongein\Documents\Visual Studio Codename Orcas\Projects\VidroSequence\VidroSequence\bin\Release\VidroSequence.pdb
+C:\Users\Udongein\Documents\Visual Studio Codename Orcas\Projects\VidroSequence\VidroSequence\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Udongein\Documents\Visual Studio Codename Orcas\Projects\VidroSequence\VidroSequence\obj\Release\VidroSequence.Form1.resources
+C:\Users\Udongein\Documents\Visual Studio Codename Orcas\Projects\VidroSequence\VidroSequence\obj\Release\VidroSequence.Properties.Resources.resources
+C:\Users\Udongein\Documents\Visual Studio Codename Orcas\Projects\VidroSequence\VidroSequence\obj\Release\VidroSequence.csproj.GenerateResource.Cache
+C:\Users\Udongein\Documents\Visual Studio Codename Orcas\Projects\VidroSequence\VidroSequence\obj\Release\VidroSequence.exe
+C:\Users\Udongein\Documents\Visual Studio Codename Orcas\Projects\VidroSequence\VidroSequence\obj\Release\VidroSequence.pdb
+C:\Projects\VidroSequence\VidroSequence\bin\Release\VidroSequence.exe.config
+C:\Projects\VidroSequence\VidroSequence\obj\Release\VidroSequence.exe
+C:\Projects\VidroSequence\VidroSequence\obj\Release\VidroSequence.pdb
+C:\Projects\VidroSequence\VidroSequence\bin\Release\VidroSequence.exe
+C:\Projects\VidroSequence\VidroSequence\bin\Release\VidroSequence.pdb
+C:\Projects\VidroSequence\VidroSequence\obj\Release\ResolveAssemblyReference.cache
+C:\Projects\VidroSequence\VidroSequence\obj\Release\VidroSequence.Form1.resources
+C:\Projects\VidroSequence\VidroSequence\obj\Release\VidroSequence.Properties.Resources.resources
+C:\Projects\VidroSequence\VidroSequence\obj\Release\VidroSequence.csproj.GenerateResource.Cache

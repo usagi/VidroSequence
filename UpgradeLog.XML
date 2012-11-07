@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="VidroSequence">
+</Property><Property Name="ソリューション ファイル" Value="C:\Projects\VidroSequence\VidroSequence.sln">
+</Property><Property Name="ユーザー オプション ファイル" Value="C:\Projects\VidroSequence\VidroSequence.suo">
+</Property><Property Name="Date" Value="2009年9月8日">
+</Property><Property Name="Time" Value="23:44">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="VidroSequence.sln" Description="ファイルは正常に C:\Projects\VidroSequence\Backup\VidroSequence.sln としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="" Source="VidroSequence.suo" Description="ファイルは正常に C:\Projects\VidroSequence\Backup\VidroSequence.suo としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="VidroSequence" Source="VidroSequence\VidroSequence.csproj" Description="プロジェクト ファイルは正常に C:\Projects\VidroSequence\Backup\VidroSequence\VidroSequence.csproj としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="VidroSequence" Source="VidroSequence\VidroSequence.csproj.user" Description="プロジェクト ユーザー ファイルは正常に C:\Projects\VidroSequence\Backup\VidroSequence\VidroSequence.csproj.user としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="VidroSequence" Source="VidroSequence\Form1.cs" Description="ファイルは正常に C:\Projects\VidroSequence\Backup\VidroSequence\Form1.cs としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="VidroSequence" Source="VidroSequence\Form1.Designer.cs" Description="ファイルは正常に C:\Projects\VidroSequence\Backup\VidroSequence\Form1.Designer.cs としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="VidroSequence" Source="VidroSequence\Program.cs" Description="ファイルは正常に C:\Projects\VidroSequence\Backup\VidroSequence\Program.cs としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="VidroSequence" Source="VidroSequence\Properties\AssemblyInfo.cs" Description="ファイルは正常に C:\Projects\VidroSequence\Backup\VidroSequence\Properties\AssemblyInfo.cs としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="VidroSequence" Source="VidroSequence\Properties\Resources.Designer.cs" Description="ファイルは正常に C:\Projects\VidroSequence\Backup\VidroSequence\Properties\Resources.Designer.cs としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="VidroSequence" Source="VidroSequence\Properties\Settings.Designer.cs" Description="ファイルは正常に C:\Projects\VidroSequence\Backup\VidroSequence\Properties\Settings.Designer.cs としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="VidroSequence" Source="VidroSequence\Settings.cs" Description="ファイルは正常に C:\Projects\VidroSequence\Backup\VidroSequence\Settings.cs としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="VidroSequence" Source="VidroSequence\app.config" Description="ファイルは正常に C:\Projects\VidroSequence\Backup\VidroSequence\app.config としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="VidroSequence" Source="VidroSequence\Properties\Settings.settings" Description="ファイルは正常に C:\Projects\VidroSequence\Backup\VidroSequence\Properties\Settings.settings としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="VidroSequence" Source="VidroSequence\VidroSequence.ico" Description="ファイルは正常に C:\Projects\VidroSequence\Backup\VidroSequence\VidroSequence.ico としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="VidroSequence" Source="VidroSequence\Form1.resx" Description="ファイルは正常に C:\Projects\VidroSequence\Backup\VidroSequence\Form1.resx としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="VidroSequence" Source="VidroSequence\Properties\Resources.resx" Description="ファイルは正常に C:\Projects\VidroSequence\Backup\VidroSequence\Properties\Resources.resx としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="VidroSequence" Source="VidroSequence\VidroSequence.csproj" Description="プロジェクトは正常に変換されました。">
+</Event><Event ErrorLevel="3" Project="VidroSequence" Source="VidroSequence\VidroSequence.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="VidroSequence.sln" Description="ソリューションは正常に変換されました">
+</Event><Event ErrorLevel="3" Project="" Source="VidroSequence.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="VidroSequence" Source="VidroSequence\VidroSequence.csproj" Description="スキャンが完了しました: プロジェクト ファイルにアップグレードは必要ありません。">
+</Event></UpgradeLog>
